@@ -1,0 +1,1 @@
+<img width="2670" height="238" alt="image" src="https://github.com/user-attachments/assets/44666318-e108-473c-92c9-735ebc1d75b5" />Video demonstration of Transforming waste management with transfer learning
